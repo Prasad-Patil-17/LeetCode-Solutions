@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -60,10 +61,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
