@@ -2,26 +2,26 @@ class Solution {
 public:
     bool isIsomorphic(string s, string t) {
         
-        if(t.size() != s.size()) return false;
+        if(s.size() != t.size()) return false;
 
-        vector<int> emp_vec(150,1000);
-
-        for(int i=0;i<s.size();i++){
-            int idx = (int)s[i];
-            if(emp_vec[idx] == 1000){
-                emp_vec[idx] = s[i]-t[i];
-            }
-            else if(emp_vec[idx] != s[i]-t[i]) return false;
-        }
-
-        fill(emp_vec.begin(), emp_vec.end(), 1000);
+        unordered_map<char,char> map_1;
+        unordered_map<char,char> map_2;
 
         for(int i=0;i<s.size();i++){
-            int idx = (int)t[i];
-            if(emp_vec[idx] == 1000){
-                emp_vec[idx] = s[i]-t[i];
+
+            char ch1 = s[i];
+            char ch2 = t[i];
+
+            if(
+                map_1.find(ch1) == map_1.end() &&
+                map_2.find(ch2) == map_2.end()
+            ){
+                map_1[ch1] = ch2;
+                map_2[ch2] = ch1;
             }
-            else if(emp_vec[idx] != s[i]-t[i]) return false;
+            else if(
+                map_1[ch1] != ch2 || map_2[ch2] != ch1
+            ) return false;
         }
 
         return true;
