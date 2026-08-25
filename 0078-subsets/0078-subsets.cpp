@@ -1,16 +1,18 @@
 class Solution {
 public:
-    void push_subsets(vector<int>& nums,vector<vector<int>>& emp_vec,int idx,vector<int> temp){
+    void push_subsets(vector<int>& nums,vector<vector<int>>& emp_vec,int idx,vector<int>& temp){
 
         if(idx > nums.size()-1){
             emp_vec.push_back(temp);
             return;
         }
 
-        int current_element = nums[idx];
-
+        //include//
+        temp.push_back(nums[idx]);
         push_subsets(nums,emp_vec,idx+1,temp);
-        temp.push_back(current_element);
+        temp.pop_back();
+
+        //exclude//
         push_subsets(nums,emp_vec,idx+1,temp);
     }
 
