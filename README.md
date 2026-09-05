@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -142,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
