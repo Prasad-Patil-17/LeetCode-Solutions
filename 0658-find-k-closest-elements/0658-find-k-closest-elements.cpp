@@ -18,11 +18,13 @@ public:
         if(x > arr[arr.size()-1]){
             int lower_bound = arr.size()-1;
             int pusher_idx = arr.size()-1;
+            int k_count = 0;
 
-            while(pusher_idx >= k){
+            while(k_count != k){
                 result.push_back(arr[pusher_idx]);
                 pusher_idx--;
                 lower_bound--;
+                k_count++;
             }
 
             sort(result.begin(),result.end());
