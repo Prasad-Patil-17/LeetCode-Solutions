@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
 | ------- |
