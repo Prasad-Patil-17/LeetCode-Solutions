@@ -1,34 +1,32 @@
 class Solution {
 public:
     int maxSatisfaction(vector<int>& satisfaction) {
-        int len = satisfaction.size();
+        
+        //Sort the satisfaction array
+        sort(satisfaction.begin(),satisfaction.end());
 
-        sort(satisfaction.begin(),satisfaction.end()); 
-
-        vector<int> suffix_sum_arr(len);
-        suffix_sum_arr[len-1] = satisfaction[len-1];
-
-        for(int i=len-2;i>=0;i--){
-            suffix_sum_arr[i] = suffix_sum_arr[i+1] + satisfaction[i];
+        //Create the suffix sum of the satifaction sorted array//
+        vector<int> suffix_sum(satisfaction.size());
+        suffix_sum[suffix_sum.size()-1] = satisfaction[satisfaction.size()-1];
+        for(int i=suffix_sum.size()-2;i>=0;i--){
+            suffix_sum[i] = satisfaction[i] + suffix_sum[i+1];
         }
 
-        int pivot_idx = -1;
-        for(int i=0;i<len;i++){
-            if(suffix_sum_arr[i] >=0 ){
-                pivot_idx = i;
+        //find the pivot index//
+        int pivot_idx = 0;
+        for(int i=suffix_sum.size()-1;i>=0;i--){
+            if(suffix_sum[i] < 0){
+                pivot_idx = i+1;
                 break;
             }
         }
 
-        if(pivot_idx == -1) return 0;
-
-        int time_coeff = 1;
+        //return the maximum sum from the suffix array from that pivot index
         int max_sum = 0;
-        for(int i=pivot_idx;i<len;i++){
-            max_sum += (satisfaction[i]*(time_coeff++));
+        for(int i=pivot_idx;i<suffix_sum.size();i++){
+            max_sum += suffix_sum[i];
         }
 
         return max_sum;
-
     }
 };
