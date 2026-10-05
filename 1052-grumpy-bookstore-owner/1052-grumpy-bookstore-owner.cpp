@@ -3,7 +3,6 @@ public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
 
         //Find the window that has most loss of satisfaction//
-        vector<int> max_loss_arr;
 
         int prev_loss = 0;
         for(int i=0;i<minutes;i++){
