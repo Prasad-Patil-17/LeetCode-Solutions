@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Heap (Priority Queue)
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
