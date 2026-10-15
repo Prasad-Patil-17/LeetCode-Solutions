@@ -14,6 +14,7 @@ public:
         //find the middle node using fast and slow pointers//
 
         if(head == NULL || head->next == NULL) return NULL;
+        
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* prev_node = NULL;
