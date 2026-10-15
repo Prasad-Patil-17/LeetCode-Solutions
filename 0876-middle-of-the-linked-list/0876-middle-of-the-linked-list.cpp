@@ -11,47 +11,16 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-
-
-        //calculate the count of the linked list//
-        ListNode* temp = head;
-        int node_count = 0;
-        while(temp != NULL){
-            node_count++;
-            temp = temp->next;
-        }
-
-        if(node_count == 1) return head;
         
-        if(node_count % 2 == 0){
+        //Using the concept of fast and slow pointer//
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-            int middle = node_count/2;
-            int count = 1;
-
-            temp = head;
-            while(temp != NULL && count < middle){
-                count++;
-                temp = temp->next;
-            }
-
-            ListNode* first_node = temp;
-            ListNode* second_node = temp->next;
-
-            return second_node;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = (fast->next)->next;
         }
-        else{ //node_count is odd
-            int middle = node_count/2;
 
-            temp = head;
-            int count = 1;
-
-            while(temp != NULL && count < middle){
-                count++;
-                temp = temp->next;
-            }
-
-            ListNode* individual_node = temp->next;
-            return individual_node;
-        }
+        return slow;
     }
 };
