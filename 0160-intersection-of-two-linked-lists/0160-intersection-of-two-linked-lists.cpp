@@ -9,36 +9,56 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+
+        if(headA == nullptr && headB == nullptr) return NULL;
         
-        if(headA == NULL && headB == NULL) return NULL;
-        
-        vector<ListNode*> list_1;
-        list_1.push_back(headA);
+        ListNode* temp1 = headA;
+        int list1_count = 0;
 
-        vector<ListNode*> list_2;
-        list_2.push_back(headB);
+        ListNode* temp2 = headB;
+        int list2_count = 0;
 
-
-        ListNode* temp1 = headA->next;
-        while(temp1 != NULL){
-            list_1.push_back(temp1);
+        //1. Count the length of the linked list;
+        while(temp1 != nullptr){
+            list1_count++;
             temp1 = temp1->next;
         }
 
-        ListNode* temp2 = headB->next;
-        while(temp2 != NULL){
-            list_2.push_back(temp2);
+        while(temp2 != nullptr){
+            list2_count++;
             temp2 = temp2->next;
         }
 
-        for(int i=0;i<list_1.size();i++){
+        int req_count = abs(list1_count - list2_count);
 
-            ListNode* current_adress = list_1[i];
+        temp1 = headA;
+        temp2 = headB;
 
-            for(int j=0;j<list_2.size();j++){
-                if(current_adress == list_2[j]) return current_adress;
+        //2. make the temp pointer point to its required position//
+        if(list1_count > list2_count){
+            int temp_count = 1;
+
+            while(temp1 != NULL && temp_count <= req_count){
+                temp_count++;
+                temp1 = temp1->next;
             }
         }
+        else{
+            int temp_count = 1;
+
+            while(temp2 != NULL && temp_count <= req_count){
+                temp_count++;
+                temp2 = temp2->next;
+            }
+        }
+
+        //2. After the above loop traverse using 2 pointers from start//
+        while(temp1 != temp2){
+            temp1 = temp1->next;
+            temp2 = temp2->next;
+        }
+
+        if(temp1 == temp2) return temp1;
 
         return NULL;
     }
