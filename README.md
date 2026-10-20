@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
