@@ -43,13 +43,13 @@ public:
 
         while(lists.size() > 1){
 
-            ListNode* last = lists[lists.size()-1];
-            lists.pop_back();
+            ListNode* first = lists[0];
+            lists.erase(lists.begin());
 
-            ListNode* sec_last = lists[lists.size()-1];
-            lists.pop_back();
+            ListNode* second = lists[0];
+            lists.erase(lists.begin());
 
-            ListNode* merged_list = merge2lists(last,sec_last);
+            ListNode* merged_list = merge2lists(first,second);
 
             lists.push_back(merged_list);
         }
