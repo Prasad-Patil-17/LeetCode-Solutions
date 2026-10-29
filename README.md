@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
