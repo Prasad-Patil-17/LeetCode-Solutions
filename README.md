@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
