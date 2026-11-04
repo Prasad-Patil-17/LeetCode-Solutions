@@ -3,48 +3,37 @@ public:
     stack<int> st;
     stack<int> helper;
 
-    MyQueue(){}
+    MyQueue() {}
     
     void push(int x) {
+
+        if(st.empty()){
+            st.push(x);
+            return;
+        }
+
+        while(!st.empty()){
+            helper.push(st.top());
+            st.pop();
+        }
+
         st.push(x);
+
+        while(!helper.empty()){
+            st.push(helper.top());
+            helper.pop();
+        }
     }
     
     int pop() {
-        
-        //empty st into helper;
-        while(!st.empty()){
-            helper.push(st.top());
-            st.pop();
-        }
+        int popped_element = st.top();
+        st.pop();
 
-        int front_element = helper.top();
-        helper.pop();
-
-        //empty hlper into the st;
-        while(!helper.empty()){
-            st.push(helper.top());
-            helper.pop();
-        }
-
-        return front_element;
+        return popped_element;
     }
     
     int peek() {
-        //empty st into helper;
-        while(!st.empty()){
-            helper.push(st.top());
-            st.pop();
-        }
-
-        int front_element = helper.top();
-
-        //empty hlper into the st;
-        while(!helper.empty()){
-            st.push(helper.top());
-            helper.pop();
-        }
-
-        return front_element;
+        return st.top();
     }
     
     bool empty() {
