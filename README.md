@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1402-reducing-dishes](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
