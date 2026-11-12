@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasad-Patil-17/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
