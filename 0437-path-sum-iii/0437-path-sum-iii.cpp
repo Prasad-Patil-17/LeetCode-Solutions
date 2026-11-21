@@ -14,13 +14,14 @@ public:
     void helper(TreeNode* root,long long target_sum,int& count){
         if(root == nullptr) return;
 
-        if(target_sum == root->val) count++;
+        if(target_sum == root->val) count += 1;
 
-        helper(root->left,(long long)(target_sum - root->val),count);
-        helper(root->right,(long long)(target_sum - root->val),count);
+        helper(root->left,(long long)target_sum - root->val,count);
+        helper(root->right,(long long)target_sum - root->val,count);
+
     }
     int pathSum(TreeNode* root, int targetSum) {
-
+        
         if(root == nullptr) return 0;
 
         int count = 0;
